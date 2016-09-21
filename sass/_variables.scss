@@ -1,0 +1,83 @@
+/* media queries */
+
+@media (min-width:320px) { /* smartphones, iPhone, portrait 480x320 phones */ }
+@media (min-width:481px) { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
+@media (min-width:641px) { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
+@media (min-width:961px) { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }
+
+/*VARIABLES COULEURS*/
+/*Primary colours*/
+$hotpink: #ff0080;
+$hotorange:#fb3a3a;
+$bronze: #D59D62;
+$darkgrey:#222129;
+$granite: #69595b;
+$slate:#dad4d4;
+$yellow: #ffeb3b;
+$blue: #a2d9ff;
+$darkblue:#264059;
+$darkgreen:#1b2e28;
+$middlegreen:#1c4a47;
+$lightgreen:#007261;
+/*wash colours*/
+$stone:#fdf9f0;
+$parchement:#fcfbfc;
+$white:#fff;
+$black:#000;
+
+/* sublimetext color*/
+/*$hotpink: #ff0080;*/
+$purple:#996dbd;
+$green:#87b928;
+$bluesub:#1bc0d4;
+
+
+/*VARIABLES icomoon icons*/
+$icomoon-font-path: "fonts" !default;
+
+$icon-github: "\e900";
+$icon-linkedin: "\e901";
+$icon-mixcloud: "\e902";
+$icon-pinterest: "\e903";
+$icon-twitter: "\e904";
+
+
+
+/*VARIABLES FONT*/
+$arial:Arial,Helvetica Neue,Helvetica,sans-serif;
+$consolas:Consolas,monaco,monospace;
+$poppins:'Poppins', Arial,Helvetica, sans-serif;
+
+/*VARIABLES FONT SIZE*/
+$h2_font_size_small:2rem;
+$h2_line_heigh_small:4rem;
+$p_font_size_small:1.5rem;
+$p_line_heigh_small:2.7rem;
+
+
+
+/*VARIABLES PADDINGS*/
+$pad:2.50rem;
+
+
+
+
+
+
+/*MIXINS */
+
+@mixin wrapper($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+
+
+
+
+
+

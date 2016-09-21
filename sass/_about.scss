@@ -1,0 +1,65 @@
+
+/* ABOUT PART */
+
+.grid_about{
+	background-color:$white;
+	display:flex;
+	flex-direction:column;
+	width:100%;
+		@media (min-width:961px) {
+		flex-direction:row;
+		}
+		.about_picture{
+		border-bottom: 2px solid black;
+		display:flex;
+		padding-top:2rem;
+		padding-bottom:4rem;
+		width:100%;
+		background-color:white;
+		align-items:center;
+		justify-content:center;
+			
+			@media (min-width:961px) {
+			border-right:1px solid $hotpink;
+			width:30%;
+			padding:1rem;
+			}
+			@media (min-width:1025px) {
+			padding:2rem;
+			}
+			.profile_picture{
+				width:93%;
+				height:auto;
+				@media (min-width:541px) {
+				width:70%;
+				}
+				@media (min-width:961px) {
+				width:100%;
+				}
+			}		
+		}
+		.about_section{
+		display:flex;
+		width:100%;
+		background-color:white;
+		border-bottom: 2px solid black;
+		flex-direction:column;
+		padding-bottom:2rem;
+		@media (min-width:961px) {
+		width:70%;
+		}	
+			.p_about{
+			@extend p;
+			color:$darkgrey;
+			text-align:justify;	
+				a:hover{
+				background-color:$yellow;
+				}	
+			}	
+		}
+}
+
+
+
+
+
