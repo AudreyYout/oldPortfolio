@@ -464,6 +464,7 @@
   margin-bottom: 1.5rem;
   flex-wrap: wrap;
   margin-top: 2rem;
+  flex-direction: column;
 }
 @media (min-width: 961px) {
   /* line 114, ../sass/_projects.scss */
@@ -471,7 +472,7 @@
     width: 77%;
   }
 }
-/* line 126, ../sass/_projects.scss */
+/* line 127, ../sass/_projects.scss */
 .grid_portfolio .portfolio_projet_description .portfolio_projet_row .portfolio_projet_missions li {
   float: left;
   color: #222129;
@@ -482,7 +483,7 @@
   font-weight: 300;
   margin-right: 1rem;
 }
-/* line 138, ../sass/_projects.scss */
+/* line 139, ../sass/_projects.scss */
 .grid_portfolio .portfolio_projet_description .portfolio_projet_row .portfolio_projet_tech {
   display: flex;
   width: 88%;
@@ -495,12 +496,12 @@
   flex-wrap: wrap;
 }
 @media (min-width: 961px) {
-  /* line 138, ../sass/_projects.scss */
+  /* line 139, ../sass/_projects.scss */
   .grid_portfolio .portfolio_projet_description .portfolio_projet_row .portfolio_projet_tech {
     width: 77%;
   }
 }
-/* line 152, ../sass/_projects.scss */
+/* line 153, ../sass/_projects.scss */
 .grid_portfolio .portfolio_projet_description .portfolio_projet_row .portfolio_projet_tech li {
   float: left;
   border: 1px solid #222129;
