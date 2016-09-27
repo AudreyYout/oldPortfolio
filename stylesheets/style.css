@@ -1470,43 +1470,44 @@ footer .mentions {
 /* line 12, ../sass/style.scss */
 html {
   font-size: 62.5%;
+  width: 100%;
 }
 
-/* line 14, ../sass/style.scss */
+/* line 15, ../sass/style.scss */
 body {
   background-color: #fff;
 }
 @media (min-width: 481px) {
-  /* line 14, ../sass/style.scss */
+  /* line 15, ../sass/style.scss */
   body {
     background-color: #222129;
   }
 }
 @media (min-width: 800px) {
-  /* line 14, ../sass/style.scss */
+  /* line 15, ../sass/style.scss */
   body {
     background-color: #fff;
   }
 }
 @media (min-width: 961px) {
-  /* line 14, ../sass/style.scss */
+  /* line 15, ../sass/style.scss */
   body {
     background-color: #222129;
   }
 }
 @media (min-width: 1281px) {
-  /* line 14, ../sass/style.scss */
+  /* line 15, ../sass/style.scss */
   body {
     background-color: #fff;
   }
 }
 @media (min-width: 1400px) {
-  /* line 14, ../sass/style.scss */
+  /* line 15, ../sass/style.scss */
   body {
     background-color: #222129;
   }
 }
-/* line 35, ../sass/style.scss */
+/* line 36, ../sass/style.scss */
 body .wrapper {
   width: 100%;
   margin: auto;
@@ -1519,7 +1520,7 @@ body .wrapper {
   /*end body*/
 }
 @media (min-width: 481px) {
-  /* line 35, ../sass/style.scss */
+  /* line 36, ../sass/style.scss */
   body .wrapper {
     width: 90%;
     padding-left: 2rem;
@@ -1529,7 +1530,7 @@ body .wrapper {
   }
 }
 @media (min-width: 641px) {
-  /* line 35, ../sass/style.scss */
+  /* line 36, ../sass/style.scss */
   body .wrapper {
     width: 90%;
     padding-left: 2.5rem;
@@ -1539,7 +1540,7 @@ body .wrapper {
   }
 }
 @media (min-width: 800px) {
-  /* line 35, ../sass/style.scss */
+  /* line 36, ../sass/style.scss */
   body .wrapper {
     width: 90%;
     padding-top: 7rem;
@@ -1549,7 +1550,7 @@ body .wrapper {
   }
 }
 @media (min-width: 961px) {
-  /* line 35, ../sass/style.scss */
+  /* line 36, ../sass/style.scss */
   body .wrapper {
     width: 80%;
     padding-top: 7rem;
@@ -1559,7 +1560,7 @@ body .wrapper {
   }
 }
 @media (min-width: 1281px) {
-  /* line 35, ../sass/style.scss */
+  /* line 36, ../sass/style.scss */
   body .wrapper {
     width: 93%;
     padding-top: 10rem;
@@ -1570,7 +1571,7 @@ body .wrapper {
   }
 }
 @media (min-width: 1400px) {
-  /* line 35, ../sass/style.scss */
+  /* line 36, ../sass/style.scss */
   body .wrapper {
     width: 80%;
     padding-top: 10rem;
@@ -1579,7 +1580,7 @@ body .wrapper {
     padding-right: 5rem;
   }
 }
-/* line 92, ../sass/style.scss */
+/* line 93, ../sass/style.scss */
 body .wrapper .section_title {
   border-top: 2px solid #ff0080;
   border-bottom: 1px solid #ff0080;
@@ -1591,7 +1592,7 @@ body .wrapper .section_title {
   padding-bottom: 0.5rem;
   /*end wrapper*/
 }
-/* line 101, ../sass/style.scss */
+/* line 102, ../sass/style.scss */
 body .wrapper .section_title .fig {
   color: #ff0080;
   font-size: 3rem;
@@ -1599,12 +1600,12 @@ body .wrapper .section_title .fig {
   font-family: 'Abril Fatface', cursive;
 }
 @media (min-width: 481px) {
-  /* line 101, ../sass/style.scss */
+  /* line 102, ../sass/style.scss */
   body .wrapper .section_title .fig {
     font-size: 4rem;
   }
 }
-/* line 110, ../sass/style.scss */
+/* line 111, ../sass/style.scss */
 body .wrapper .section_title h1 {
   color: #ff0080;
   font-family: "Poppins", Arial, Helvetica, sans-serif;
@@ -1615,12 +1616,12 @@ body .wrapper .section_title h1 {
   /*end section title*/
 }
 @media (min-width: 481px) {
-  /* line 110, ../sass/style.scss */
+  /* line 111, ../sass/style.scss */
   body .wrapper .section_title h1 {
     font-size: 3.7rem;
   }
 }
-/* line 126, ../sass/style.scss */
+/* line 127, ../sass/style.scss */
 body .wrapper h2, body .wrapper h3 {
   color: #000;
   font-family: Consolas, monaco, monospace;
@@ -1632,14 +1633,14 @@ body .wrapper h2, body .wrapper h3 {
   display: flex;
   margin-bottom: 0.5em;
 }
-/* line 139, ../sass/style.scss */
+/* line 140, ../sass/style.scss */
 body .wrapper h3 {
   line-height: 2.7rem;
   padding-left: 2.5rem;
   padding-bottom: 1rem;
   font-style: italic;
 }
-/* line 147, ../sass/style.scss */
+/* line 148, ../sass/style.scss */
 body .wrapper p, body .wrapper .grid_portfolio .portfolio_projet_description .portfolio_projet_row .portfolio_projet_p, .grid_portfolio .portfolio_projet_description .portfolio_projet_row body .wrapper .portfolio_projet_p, body .wrapper .grid_autoformation .autoformation_projets_section .autoformation_description_wrapper .autoformation_projets_p, .grid_autoformation .autoformation_projets_section .autoformation_description_wrapper body .wrapper .autoformation_projets_p, body .wrapper .grid_about .about_section .p_about, .grid_about .about_section body .wrapper .p_about, body .wrapper .grid_contact .about_section .p_about, .grid_contact .about_section body .wrapper .p_about, body .wrapper .grid_contact .contact_mail_section .contact_mail_section_card .contact_mail_section_p, .grid_contact .contact_mail_section .contact_mail_section_card body .wrapper .contact_mail_section_p, body .wrapper .grid_contact .contact_social_section .contact_social_section_p, .grid_contact .contact_social_section body .wrapper .contact_social_section_p {
   font-family: Consolas, monaco, monospace;
   font-size: 1.5rem;
@@ -1651,14 +1652,14 @@ body .wrapper p, body .wrapper .grid_portfolio .portfolio_projet_description .po
   margin-top: 2rem;
   word-wrap: break-word;
 }
-/* line 160, ../sass/style.scss */
+/* line 161, ../sass/style.scss */
 body .wrapper a {
   border-bottom: 3px solid #ffeb3b;
   box-shadow: inset 0 -4px 0 #ffeb3b;
   color: #000;
   text-decoration: none;
 }
-/* line 166, ../sass/style.scss */
+/* line 167, ../sass/style.scss */
 body .wrapper a:hover {
   text-decoration: none;
 }
