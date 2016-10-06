@@ -1,0 +1,258 @@
+{"records":[
+{
+ "name":"Banana Cake",
+ "id":"Banana_Cake",
+ "imageURL":"img/img_banana_recipes/banana_cake.jpg",
+ "preparationTime" :"45 min",
+ "level":"easy",
+ "coursesType":"Dessert"
+ "ingredients" : [
+    {
+        "quantity": "125g",
+        "name" :"butter",
+    },
+     {
+        "quantity": "150g",
+        "name" :"caster sugar",
+    },
+     {
+        "quantity": "1 teaspoon",
+        "name" :"vanilla extract",
+    },
+      {
+        "quantity": "1",
+        "name" :"egg, beaten",
+    },
+      {
+        "quantity": "2",
+        "name" :"very ripe bananas, mashed",
+    },
+      {
+        "quantity": "190g",
+        "name" :"self raising flour",
+    },
+      {
+        "quantity": "60ml",
+        "name" :"milk",
+    }
+ ],
+ "methode":[
+    "1-Grease and line a 2lb loaf tin. Melt butter, sugar and vanilla in a saucepan over a medium heat.",
+    "2-Remove from heat and add the mashed bananas, mix well.",
+    "3-Add the egg, mix well.",
+    "4-Stir in the flour and the milk.",
+    "5-Pour into the prepared tin, sprinkle with a tablespoon of demerara sugar to give a crunch topping if liked.",
+    "6-Bake at 170 C / Fan 150 C / Gas 3 for 35 minutes, or until a skewer comes out clean. Leave to cool and enjoy!",
+],
+},
+
+{
+ "name":"Banofee Pie",
+ "id":"Banofee_Pie",
+ "imageURL":"img/img_banana_recipes/banofee_pie.jpg",
+ "preparationTime" :"3 hours 30 min",
+ "level":"easy",
+ "coursesType":"Dessert"
+ "ingredients" : [
+    {
+        "quantity": "1 (397g)",
+        "name" :"tin full cream condensed milk",
+    },
+     {
+        "quantity": "100g (4 oz)",
+        "name" :"butter",
+    },
+     {
+        "quantity": "250g (9 oz)",
+        "name" :"crushed good quality shortbread fingers",
+    },
+      {
+        "quantity": "2",
+        "name" :"bananas",
+    },
+      {
+        "quantity": "2",
+        "name" :"very ripe bananas, mashed",
+    },
+      {
+        "quantity": "1 (284ml)",
+        "name" :"pot double cream, whipped",
+    },
+      {
+        "quantity": "1",
+        "name" :"Flake bar, crumbled (to decorate)",
+    }
+ ],
+ "methode":[
+    "1-To make the caramel: Bring a saucepan 3/4 filled with water to a boil and put the can of milk in it. Simmer in the boiling water for 3 hours, paying attention to add water for when it evaporates. When opened, it will transform in caramel.",
+    "2-To make the base: Melt the butter in a large saucepan and stir in the crushed shortbread of your choice.",
+    "3-Press into the base and sides of 23 cm cake or flan tin. Chill for about 40 minutes.",
+    "4-Pour the caramel over biscuit base, let it cool. Meanwhile, slice the bananas and arrange on top of the layer of caramel.",
+    "5-Chill for about an hour until firm.",
+    "6-Decorate with whipped cream and a crumbled flake. Add more freshly sliced banana, if you like!",
+],
+},
+
+{
+ "name":"Banana Milkshake",
+ "id":"Banana_Milkshake",
+ "imageURL":"img/img_banana_recipes/banana_milkshake.jpg",
+ "preparationTime" :"10 min",
+ "level":"easy",
+ "coursesType":"Drink"
+ "ingredients" : [
+    {
+        "quantity": "2",
+        "name" :"medium frozen bananas",
+    },
+     {
+        "quantity": "2 scoops",
+        "name" :"vanilla ice cream",
+    },
+     {
+        "quantity": "generous",
+        "name" :"sprinkling ground cinnamon",
+    },
+      {
+        "quantity": "1 teaspoon",
+        "name" :"honey",
+    },
+      {
+        "quantity": "3/4 glass",
+        "name" :"of milk",
+    },
+      {
+        "quantity": "few scoops",
+        "name" :"chocolate milk power (optional)",
+    },
+ ],
+ "methode":[
+    "1-Throw bananas, ice cream, cinnamon, honey, milk and chocolate powder (if using) into a blender and blitz until smooth (hand blenders work great too). Serve immediately..",
+
+],
+},
+
+{
+ "name":"Banana Lassi",
+ "id":"Banana_Lassi",
+ "imageURL":"img/img_banana_recipes/banana_lassi.jpg",
+ "preparationTime" :"10 min",
+ "level":"easy",
+ "coursesType":"Drink"
+ "ingredients" : [
+    {
+        "quantity": "2",
+        "name" :"ripe bananas, broken into pieces",
+    },
+     {
+        "quantity": "225g",
+        "name" :"plain yoghurt",
+    },
+     {
+        "quantity": "80ml",
+        "name" :"milk, or more as needed",
+    },
+      {
+        "quantity": "2",
+        "name" :"ice cubes",
+    },
+      {
+        "quantity": "2 tablespoons",
+        "name" :"caster sugar, or to taste",
+    },
+ ],
+ "methode":[
+    "1-Blend bananas, yoghurt, milk, ice cubes and sugar together in a blender until smooth.",    
+],
+},
+
+{
+ "name":"Fragrant spiced chicken with banana sambal",
+ "id":"Banana_Chicken",
+ "imageURL":"img/img_banana_recipes/chicken-sambal.jpg",
+ "preparationTime" :"1 hour",
+ "level":"easy",
+ "coursesType":"Main Dish"
+ "ingredients" : [
+    {
+        "quantity": "2",
+        "name" :"large onions quartered",
+    },
+     {
+        "quantity": "4",
+        "name" :"garlic clove",
+    },
+     {
+        "quantity": "thumb-sized piece",
+        "name" :"ginger, peeled and roughly chopped",
+    },
+      {
+        "quantity": "600ml",
+        "name" :"reduced-salt chicken stock",
+    },
+      {
+        "quantity": "1 teaspoon",
+        "name" :"ground coriander",
+    },
+       {
+        "quantity": "1 teaspoons",
+        "name" :"ground cumin",
+    },
+       {
+        "quantity": "½ teapoons",
+        "name" :"ground turmeric",
+    },
+       {
+        "quantity": " 4",
+        "name" :"green cardamom pod",
+    },
+         {
+        "quantity": " 1",
+        "name" :"large red chilli, deseeded and finely chopped",
+    },
+         {
+        "quantity": " 2 tablespoons",
+        "name" :"ground almond",
+    },
+         {
+        "quantity": " 2 tablespoons",
+        "name" :"tomato purée",
+    },
+         {
+        "quantity": " 500g",
+        "name" :"skinless chicken breast, cubed",
+    },
+         {
+        "quantity": "small pack",
+        "name" :"coriander, chopped",
+    },
+           {
+        "quantity": "2 small",
+        "name" :"red onion, finely chopped",
+    },
+           {
+        "quantity": "½",
+        "name" :"cucumber, peeled, deseeded and diced",
+    },
+           {
+        "quantity": "2",
+        "name" :"small bananas, diced",
+    },
+              {
+        "quantity": "1",
+        "name" :" lime (zest and juice)",
+    },
+                {
+        "quantity": "500g",
+        "name" :"ready-cooked brown basmati rice",
+    },
+
+ ],
+ "methode":[
+    "1-Put the onions in a food processor with the garlic and ginger. Blitz until it is as smooth as possible, then pour in half the stock and blitz again.",
+    "2-Heat a large non-stick pan, sprinkle in the spices and toast for 1 min. Pour in the onion mixture, the remaining stock and all but ½ tsp of the chopped chilli. Add the almonds and tomato purée, and stir well. Simmer for 35 mins until completely soft, stirring every now and then and adding a little water if the mixture starts to catch on the bottom of the pan.",
+    "3-Add the chicken and half the fresh coriander. Heat very gently for 10 mins to cook the chicken through. Mix all the sambal ingredients with the remaining coriander and chilli, and heat the rice following pack instructions. Serve the chicken and sambal with the brown rice.",  
+],
+},
+]}
+
