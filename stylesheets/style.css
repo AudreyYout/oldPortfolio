@@ -990,33 +990,48 @@ table {
   .grid_about .about_picture, .grid_contact .about_picture {
     border-right: 1px solid #ff0080;
     width: 30%;
+    align-items: flex-start;
     padding: 1rem;
+    padding-top: 8rem;
   }
 }
 @media (min-width: 1025px) {
   /* line 12, ../sass/_about.scss */
   .grid_about .about_picture, .grid_contact .about_picture {
     padding: 2rem;
+    align-items: center;
   }
 }
-/* line 30, ../sass/_about.scss */
+/* line 33, ../sass/_about.scss */
 .grid_about .about_picture .profile_picture, .grid_contact .about_picture .profile_picture {
-  width: 93%;
+  width: 90%;
   height: auto;
 }
 @media (min-width: 541px) {
-  /* line 30, ../sass/_about.scss */
+  /* line 33, ../sass/_about.scss */
   .grid_about .about_picture .profile_picture, .grid_contact .about_picture .profile_picture {
-    width: 70%;
+    width: 50%;
   }
 }
 @media (min-width: 961px) {
-  /* line 30, ../sass/_about.scss */
+  /* line 33, ../sass/_about.scss */
   .grid_about .about_picture .profile_picture, .grid_contact .about_picture .profile_picture {
-    width: 100%;
+    width: 94%;
   }
 }
-/* line 41, ../sass/_about.scss */
+@media (min-width: 1288px) {
+  /* line 33, ../sass/_about.scss */
+  .grid_about .about_picture .profile_picture, .grid_contact .about_picture .profile_picture {
+    width: 75%;
+  }
+}
+@media (min-width: 1500px) {
+  /* line 33, ../sass/_about.scss */
+  .grid_about .about_picture .profile_picture, .grid_contact .about_picture .profile_picture {
+    width: 65%;
+  }
+}
+/* line 50, ../sass/_about.scss */
 .grid_about .about_section, .grid_contact .about_section {
   display: flex;
   width: 100%;
@@ -1026,16 +1041,16 @@ table {
   padding-bottom: 2rem;
 }
 @media (min-width: 961px) {
-  /* line 41, ../sass/_about.scss */
+  /* line 50, ../sass/_about.scss */
   .grid_about .about_section, .grid_contact .about_section {
     width: 70%;
   }
 }
-/* line 51, ../sass/_about.scss */
+/* line 60, ../sass/_about.scss */
 .grid_about .about_section .p_about, .grid_contact .about_section .p_about {
   color: #222129;
 }
-/* line 54, ../sass/_about.scss */
+/* line 63, ../sass/_about.scss */
 .grid_about .about_section .p_about a:hover, .grid_contact .about_section .p_about a:hover {
   background-color: #ffeb3b;
 }
