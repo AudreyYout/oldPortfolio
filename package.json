@@ -12,7 +12,7 @@
   "devDependencies": {
     "autoprefixer": "^6.4.1",
     "browser-sync": "^2.16.0",
-    "node-sass": "^3.10.0",
+    "node-sass": "^4.14.1",
     "onchange": "^3.0.2",
     "parallelshell": "^2.0.0",
     "postcss-cli": "^2.6.0"
